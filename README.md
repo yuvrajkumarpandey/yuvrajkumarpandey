@@ -1,7 +1,22 @@
-An e commerce website which will connect the local heritage manufacturers with the buyers, users can login, register, search by category.
+- 👋 Hi, I’m @yuvrajkumarpandey
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently learning DS & ML
+- 💞️ I’m looking to collaborate on DS, ML, Web Development
+- ⚡ Fun fact: Student of Btech CSE with specialization in DS & ML 
 
-Two type of users are here:
-
-Buyer Seller Home page consist of:
-
-Header consist of search bar, Categories are being fetched by database, User can add items in cart(database), it will show not yet login if user is not logged in, but if session is set then it will display the user logged in user. Products are displayed in card form latest 10 items added. Price,title,description is being dynamically fetched by database. Add to cart button is functioning with database, if clicked it will added in cart table of database and users can go to cart link and see all the added items there fetched dynamically from database. If you click on any product card you will be redirected to the product page where all data being dynamically fetched from database. In the same file product.php other users feedback is also dynamically fetched and displayed Many more feature are there....
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+</div>
+<!---
+itzykp/itzykp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
